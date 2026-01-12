@@ -1,4 +1,4 @@
-# Dano Airline Passenger Satisfaction Analysis
+# Dano Airlines Passenger Satisfaction Analysis
 
 Background/Objective 
 Dano Airlines is a UK-based airline headquartered in London. Following the release of its latest passenger survey, the overall satisfaction rate has fallen below the 50% threshold for the first time. The objective of this analysis is to identify the reason for the decline and provide recommendations to improve passenger satisfaction and restore confidence in the airline.

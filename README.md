@@ -2,8 +2,18 @@
 
 # Dano Airlines Passenger Satisfaction Analysis
 
-Background/Objective 
+## Background/Objective 
 Dano Airlines is a UK-based airline headquartered in London. Following the release of its latest passenger survey, the overall satisfaction rate has fallen below the 50% threshold for the first time. The objective of this analysis is to identify the reason for the decline and provide recommendations to improve passenger satisfaction and restore confidence in the airline.
+
+## Tools/Skills
+- Power BI
+- Data Analysis (Exploratory Data Analytics, Power Query, Data Modeling, Dax)
+- Data Visualization
+- Data Segmentation
+- Problem Solving
+- Communication
+
+![](https://github.com/CleverBrown/Dano-Airlines-Passenger-Satisfaction-Analysis/blob/main/Dano%20Airlines%20.png)
 
 ## Key Performance Indicators
 - Total Passengers: 129,880

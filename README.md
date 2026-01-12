@@ -1,4 +1,4 @@
-![](https://github.com/CleverBrown/Dano-Airlines-Passenger-Satisfaction-Analysis/blob/main/Airline.png)
+<img src="https://github.com/CleverBrown/Dano-Airlines-Passenger-Satisfaction-Analysis/blob/main/Airline.png" width="100%" />
 
 # Dano Airlines Passenger Satisfaction Analysis
 
